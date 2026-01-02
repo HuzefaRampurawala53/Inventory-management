@@ -1,7 +1,4 @@
-"""
-my plan was ke 
-wo puchega number which to delete and then for i,item in enumerate
-"""
+
 items = [
     "pipe",
     "sink",
